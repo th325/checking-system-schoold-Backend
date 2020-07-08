@@ -36,7 +36,7 @@
     "form-data": "^3.0.0",
     "formidable": "^1.2.2",
     "logrotate-stream": "^0.2.6",
-    "method-override": "2.3.9",
+    "method-override": "2.3.10",
     "mongoose": "4.11.5",
     "mongoose-float": "^1.0.4",
     "muller": "^1.1.0",

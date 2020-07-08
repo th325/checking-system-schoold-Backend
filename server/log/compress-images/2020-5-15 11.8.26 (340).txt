@@ -1,0 +1,7 @@
+File from: [./public/store/output/0.5521397138622999.jpeg]
+
+File to: [./public/store/output/compress/0.5521397138622999.jpeg]
+
+Compression algorithm: [-]
+
+Description: File does not exist!

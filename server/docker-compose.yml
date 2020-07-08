@@ -1,0 +1,30 @@
+version: '2'
+services:
+  app:
+    image: node-server
+    container_name: node-server
+    build: .
+    restart: always
+    command: npm start
+    volumes:
+      - .:/usr/app/
+      - /usr/app/node_modules
+    ports:
+      - "3000:3000"
+    links:
+      - mongo
+    networks:
+      - my-network
+  mongo:
+    image: mongo
+    restart: always
+    container_name: mongodb
+    volumes:
+      - ./mongodb/db:/data/db
+    ports:
+      - "27017:27017"
+    networks:
+      - my-network
+networks:
+  my-network:
+    driver: bridge

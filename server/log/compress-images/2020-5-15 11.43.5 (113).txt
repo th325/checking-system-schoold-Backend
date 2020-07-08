@@ -1,0 +1,7 @@
+File from: [./public/store/avatars/5edce1e7367d1de02fc5154f-d8e903fe-9c7e-490b-9475-1f785988ecb6-1592196185095.jpg]
+
+File to: [./public/store/avatars/compress/5edce1e7367d1de02fc5154f-d8e903fe-9c7e-490b-9475-1f785988ecb6-1592196185095.jpg]
+
+Compression algorithm: [-]
+
+Description: File does not exist!

@@ -1,5 +1,5 @@
 [mongodb]
-host.name=mongodb:27017
+host.name=mongodb://face-api-2020:face-api-2020@ds027908.mlab.com:27908/face-api-2020
 [server]
 host.name=http://35.230.165.172
 host.port=3000

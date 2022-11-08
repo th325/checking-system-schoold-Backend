@@ -14,7 +14,7 @@
     "eslint-plugin-mocha": "^4.11.0",
     "eslint-plugin-node": "5.1.1",
     "express-swagger-generator": "^1.1.17",
-    "gulp": "~3.9.1",
+    "gulp": "~4.0.2",
     "gulp-eslint": "4.0.0",
     "gulp-nodemon": "^2.2.1"
   },
